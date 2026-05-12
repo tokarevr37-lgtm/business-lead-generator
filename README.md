@@ -4,7 +4,7 @@ A Python automation tool for collecting and organizing business contact data for
 
 ## Output Preview
 
-<img width="1283" height="909" alt="Снимок экрана 2026-05-12 192342" src="https://github.com/user-attachments/assets/fed57061-6af7-4f4d-88e7-ca463befc783" />
+<img width="1283" alt="Снимок экрана 2026-05-12 192342" src="https://github.com/user-attachments/assets/fed57061-6af7-4f4d-88e7-ca463befc783" />
 
 ## What this project does
 
@@ -36,7 +36,7 @@ Collected business data includes:
 
 ## Project Preview
 
-<img width="1898" height="913" alt="Снимок экрана 2026-05-12 193312" src="https://github.com/user-attachments/assets/87b7be97-d773-4da9-9096-214590e02fff" />
+<img width="1000" alt="Снимок экрана 2026-05-12 193312" src="https://github.com/user-attachments/assets/87b7be97-d773-4da9-9096-214590e02fff" />
 
 ## Installation
 
