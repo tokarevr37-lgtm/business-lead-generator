@@ -36,7 +36,7 @@ Collected business data includes:
 
 ## Project Preview
 
-<img width="1898" height="912" alt="Снимок экрана 2026-05-12 192507" src="https://github.com/user-attachments/assets/51ce9e89-cfba-46a4-8387-a79165e5869f" />
+<img width="1898" height="913" alt="Снимок экрана 2026-05-12 193312" src="https://github.com/user-attachments/assets/87b7be97-d773-4da9-9096-214590e02fff" />
 
 ## Installation
 
