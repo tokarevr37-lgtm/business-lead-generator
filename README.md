@@ -4,6 +4,8 @@ A Python automation tool for collecting and organizing business contact data for
 
 ## Output Preview
 
+<img width="1283" height="909" alt="Снимок экрана 2026-05-12 192342" src="https://github.com/user-attachments/assets/fed57061-6af7-4f4d-88e7-ca463befc783" />
+
 ## What this project does
 
 This project demonstrates a practical lead generation workflow that organizes structured business contact data into clean CSV and Excel deliverables.
@@ -33,6 +35,8 @@ Collected business data includes:
 - CSV
 
 ## Project Preview
+
+<img width="1898" height="912" alt="Снимок экрана 2026-05-12 192507" src="https://github.com/user-attachments/assets/51ce9e89-cfba-46a4-8387-a79165e5869f" />
 
 ## Installation
 
